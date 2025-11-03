@@ -1,0 +1,42 @@
+.color {
+    background-color: skyblue;
+    padding: 15px;
+    margin: 25px;
+}
+
+h1,
+h3 {
+    color: white;
+}
+
+.color2 {
+    background-color: lightgreen;
+    width: 500px;
+    border: 5px solid green;
+    padding: 15px;
+    margin:  25px;
+    margin: 0 auto 25px;
+}
+
+.color3 {
+    background-color: rgb(255, 0, 0);
+    width: 500px;
+    border: 5px solid rgb(181, 0, 0);
+    padding: 15px;
+    margin: 25px;
+    border-radius: 25px;
+    margin: 0 auto 25px;
+    color: white;
+}
+
+.color4 {
+    background-color: rgb(55, 56, 77);
+    padding: 15px;
+    color: white;
+    border: 15px;
+}
+
+.color5 {
+    color: #1a252f;
+    margin:0 10px;
+}
