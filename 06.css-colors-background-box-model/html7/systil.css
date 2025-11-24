@@ -1,0 +1,13 @@
+.pmj{
+    display: flex;
+    border: 5px;
+    margin: 0 auto center;
+}
+.textt{
+    color: rgb(85, 84, 83);
+}
+div.text{
+    margin: 0 auto center;
+    padding: 10px;
+    text-align: center;
+}
